@@ -1,9 +1,10 @@
-# Esercitazioni JavaScript
-
-Raccolta di script per l'analisi dei dati scolastici.
-
-## Funzionalità dello script Media Voti:
-- **Validazione**: Controllo del range dei voti (0-10).
-- **Calcolo Statistico**: Calcolo della media con arrotondamento matematico.
-- **Logica Decisionale**: Assegnazione di giudizi dinamici (Sufficiente, Buono, Ottimo) tramite switch-case.
-- **Contatore**: Analisi automatica del numero di insufficienze.
+​📜 JavaScript Coding Exercises
+​A collection of scripts focused on school data analysis and logic implementation.
+​Features: Grade Average Script
+​Validation: Built-in checks to ensure grades remain within the valid range (0-10).
+​Statistical Calculation: Automated average calculation with precise mathematical rounding.
+​Decision Logic: Dynamic evaluation assignment (Satisfactory, Good, Excellent) using optimized switch-case structures.
+​Counter: Automatic analysis and tracking of the total number of failing grades.
+​Tech Stack
+​Language: JavaScript (ES6+)
+​Concepts: Data Validation, Control Flow, Math functions.
